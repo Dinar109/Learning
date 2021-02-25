@@ -1,0 +1,95 @@
+.first {
+    color: rgb(36, 14, 235); 
+    font-size: 25px;
+}
+
+ #line_0 {color: rgb(216, 148, 21); font-size: 45px;padding: 100px;}
+ .line_1{ display: flex; 
+    justify-content: space-around;
+    width: 400px;
+}
+ .line_2{ display: flex; 
+    justify-content: flex-end ; 
+    margin-right: 40px;
+    margin-top: 40px;
+}
+ .line_3{ display: flex; 
+    justify-content: space-evenly; 
+    text-align: center;
+}
+ .line_4{ display: flex; 
+    justify-content:center; 
+    text-align: center;
+}
+ .line_5{ display: flex; 
+    justify-content: space-around;
+    padding: 0px;
+     }
+ .line_51{display: flex;
+}
+ .line_52{display: flex;
+    margin-right: 800px;
+ }              
+ .line_6{ display: flex; 
+    justify-content: space-evenly;
+}
+ .line_7{ display: flex; 
+    justify-content: space-between; 
+    padding-inline-start:0px
+}
+ .line_8{ 
+     height: 60px;
+ }
+ .line_9{ 
+     display: flex;
+     justify-content: space-between;
+ }
+ .benefits{ display: flex; 
+    justify-content: 
+    space-around;
+ }
+ .line_10{ display: flex; 
+    justify-content: space-between; 
+    padding-inline-start:0px
+ }
+.line_11{ display: flex; 
+        padding-bottom: 20px;
+}
+.line_12{ display: flex; 
+    padding-bottom: 20px
+}
+.line_13{ display: flex; 
+    padding-bottom: 20px
+}
+.line_14{ display: flex; 
+    padding-bottom: 20px
+}
+.line_15{ display: flex; 
+    padding-bottom: 20px
+}.line_16{ display: flex; 
+    padding-bottom: 20px
+}
+.line_17{ display: flex; 
+    padding-top:50px;
+    padding-right: 200px;
+}
+#input1{display: flex; 
+    margin-left: 15px;
+}
+#input2{display: flex; 
+    margin-left: 55px;
+}
+#input3{display: flex; 
+    margin-left: 70px;
+}
+#input4{display: flex; 
+    margin-left: 30px;
+}
+#input5{display: flex; 
+    margin-left: 70px;
+}
+#input6{display: flex; 
+    margin-left: 70px;
+}
+ 
+  
